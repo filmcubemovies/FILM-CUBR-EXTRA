@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+lthJys0pMMY4YWE1')
+                InlineKeyboardButton('✨ CHΛИИΞL ✨', url='https://t.me/+lthJys0pMMY4YWE1')
             ],
             [
-                InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help")
+                InlineKeyboardButton('✨ HΞLᎮ ✨', url=f"https://t.me/{temp.U_NAME}?start=help")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -44,13 +44,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+lthJys0pMMY4YWE1'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+0LDtQvHYc-I4NTBl')
+            InlineKeyboardButton('✨ CHΛИИΞL ✨', url='https://t.me/+lthJys0pMMY4YWE1'),
+            InlineKeyboardButton('✨ UᎮDΛTΞS ✨', url='https://t.me/+0LDtQvHYc-I4NTBl')
             ],[      
-            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton('✨ HΞLᎮ ✨', callback_data='help'),
+            InlineKeyboardButton('✨ ΛBOUT ✨', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/+lthJys0pMMY4YWE1')
+            InlineKeyboardButton('✨ SUBSCᏒIBΞ ✨', url='https://t.me/+lthJys0pMMY4YWE1')
         ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -87,13 +87,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+lthJys0pMMY4YWE1'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+0LDtQvHYc-I4NTBl')
+            InlineKeyboardButton('✨ CHΛИИΞL ✨', url='https://t.me/+lthJys0pMMY4YWE1'),
+            InlineKeyboardButton('✨ UᎮDΛTΞS ✨', url='https://t.me/+0LDtQvHYc-I4NTBl')
             ],[      
-            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton('✨ HΞLᎮ ✨', callback_data='help'),
+            InlineKeyboardButton('✨ ΛBOUT ✨', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/+lthJys0pMMY4YWE1')
+            InlineKeyboardButton('✨ SUBSCᏒIBΞ ✨', url='https://t.me/+lthJys0pMMY4YWE1')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
