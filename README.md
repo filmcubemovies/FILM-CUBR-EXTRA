@@ -2,7 +2,7 @@
   <img src="assets/AJAX.png" alt="Ajax-Extra-FeaturesLogo">
 </p>
 <h1 align="center">
-  <b>FILM-CUBE-EXTRA</b>
+  <b>FILM-CUBE-MOVIES</b>
 </h1>
 
 <a href="https://t.me/+lthJys0pMMY4YWE1">
