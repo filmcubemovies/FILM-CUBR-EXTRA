@@ -769,34 +769,34 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="𝙾"
+            text="F"
         )
         await query.message.edit_text(
-            text="𝙾𝙿"
+            text="FI"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄"
+            text="FIL"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂"
+            text="FILM"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-"
+            text="FILM-"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃"
+            text="FILM-C"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴"
+            text="FILM-CU"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲"
+            text="FILM-CUB"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷"
+            text="FILM-CUBE"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉"
+            text="FILM-CUBE-MOVIES"
         )
         await query.message.edit_text(                     
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -812,34 +812,34 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="𝙾"
+            text="F"
         )
         await query.message.edit_text(
-            text="𝙾𝙿"
+            text="FI"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄"
+            text="FIL"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂"
+            text="FILM"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-"
+            text="FILM-"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃"
+            text="FILM-C"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴"
+            text="FILM-CU"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲"
+            text="FILM-CUB"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷"
+            text="FILM-CUBE"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉"
+            text="FILM-CUBE-MOVIES"
         )
         await query.message.edit_text(
             text=script.ABOUT_TXT,
