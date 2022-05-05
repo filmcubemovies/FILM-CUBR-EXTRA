@@ -679,7 +679,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('⚚ FILM CUBE MOVIES ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('✨ FILM CUBE MOVIES ✨', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('✨ CHΛИИΞL ✨', url='https://t.me/+lthJys0pMMY4YWE1'),
             InlineKeyboardButton('✨ UᎮDΛTΞS ✨', url='https://t.me/+0LDtQvHYc-I4NTBl')
