@@ -107,7 +107,7 @@ python3 bot.py
 * /ban  - to ban a user.
 * /unban  - to unban a user.
 * /channel - to get list of total connected channels
-* /broadcast - to broadcast a message to all Ajax users
+* /broadcast - to broadcast a message to all Film cube users
 ```
 
 <b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [PRAJI](https://t.me/praji12)</b>                                                                                                                                                                                     
