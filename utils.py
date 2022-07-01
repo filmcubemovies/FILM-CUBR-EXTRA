@@ -126,7 +126,7 @@ async def get_poster(query, bulk=False, id=False, file=None):
         'release_date': date,
         'year': movie.get('year'),
         'genres': list_to_str(movie.get("genres")),
-        'poster': movie.get('https://telegra.ph/file/984c05c739f97fc355ba9.jpg'),
+        'poster': movie.get('full-size cover url'),
         'plot': plot,
         'rating': str(movie.get("rating")),
         'url':f'https://www.imdb.com/title/tt{movieid}'
