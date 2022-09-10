@@ -55,9 +55,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/+lthJys0pMMY4YWE1/3 https://t.me/+lthJys0pMMY4YWE1/8</code>
+<code>/batch https://t.me/filmcubemovies_TG/3 https://t.me/filmcubemovies_TG/8</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/+lthJys0pMMY4YWE1</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/filmcubemovies_TG</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -72,11 +72,11 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 5. /luck or /cownd - Spin the Lucky"""
     DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
   
-<b>✮ Deploy Tutorial ››</b> <i><b>https://t.me/+lthJys0pMMY4YWE1</b></i>
+<b>✮ Deploy Tutorial ››</b> <i><b>https://t.me/filmcubemovies_TG</b></i>
 
 <b>Share and Subscribe</b>
 
-Credits ›› <a href=https://t.me/+lthJys0pMMY4YWE1</b></a>"""
+Credits ›› <a href=https://t.me/filmcubemovies_TG</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and FILM CUBE MOVIES  will respond whenever a keyword is found the message
@@ -102,7 +102,7 @@ Song Download Module, For Those Who Love Music
 - Can Be Used By Everyone
 - Works in bot pm
 
-Made By <a href=https://t.me/+lthJys0pMMY4YWE1</a>"""
+Made By <a href=https://t.me/filmcubemovies_TG</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>Pin :</b>
 
@@ -196,7 +196,7 @@ Delete A Lot Of Messages From Groups!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/+lthJys0pMMY4YWE1)</code>
+<code>[Button Text](buttonurl:https://t.me/filmcubemovies_TG)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -323,7 +323,7 @@ This module only works for my admins
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/+lthJys0pMMY4YWE1</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/filmcubemovies_TG</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
