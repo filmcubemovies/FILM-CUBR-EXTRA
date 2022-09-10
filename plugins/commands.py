@@ -44,7 +44,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('✨ FILM CUBE MOVIES ✨', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('✨ CHANNEL ✨', url='https://t.me/+lthJys0pMMY4YWE1'),
+            InlineKeyboardButton('✨ CHANNEL ✨', url='https://t.me/filmcubemovies_TG'),
             InlineKeyboardButton('✨ GROUP ✨', url='https://t.me/+0LDtQvHYc-I4NTBl')
             ],[      
             InlineKeyboardButton('✨ HELP  ✨', callback_data='help'),
@@ -87,7 +87,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('✨ FILM CUBE MOVIES ✨', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('✨ CHANNEL ✨', url='https://t.me/+lthJys0pMMY4YWE1'),
+            InlineKeyboardButton('✨ CHANNEL ✨', url='https://t.me/filmcubemovies_TG'),
             InlineKeyboardButton('✨ GROUP ✨', url='https://t.me/+0LDtQvHYc-I4NTBl')
             ],[      
             InlineKeyboardButton('✨ HELP ✨', callback_data='help'),
